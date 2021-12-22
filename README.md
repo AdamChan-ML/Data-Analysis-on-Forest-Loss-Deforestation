@@ -9,5 +9,5 @@ To identify the loss of forest due to environmental issue and implement a statis
 - To develop a linear regression model to determine the relationship between the forest loss and the possible drivers of deforestation in order to implement suitable conservation  planning. 
 
 Public datasets are used in this project. (datasets link are included in the repository/documentation.)
-* When PowerBI file is downloaded, please download the datasets as well and check/change the data source in the PowerBI file to have a better experience. 
-* There might be an error as our data source might be different. 
+** When PowerBI file is downloaded, please download the datasets as well and check/change the data source in the PowerBI file to have a better experience. 
+** There might be an error as our data source might be different. 
